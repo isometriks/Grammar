@@ -1,0 +1,17 @@
+{
+    "name": "isometriks/grammar-checker",
+    "authors": [
+        {
+            "name": "Craig Blanchette",
+            "email": "craig.blanchette@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Isometriks\\Grammar\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
